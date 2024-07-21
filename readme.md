@@ -33,4 +33,4 @@ Alerts users if they try to add a todo item without entering a name or date.
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone https://github.com/darshan744/Todo-List.git
